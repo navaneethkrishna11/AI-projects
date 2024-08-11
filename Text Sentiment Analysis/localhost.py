@@ -10,5 +10,5 @@ print("SENTIMENT ANALYSIS :",sentiment)
 """
 Output
 --------------
-SENTIMENT ANALYSIS : -0.057499999999999996
+SENTIMENT ANALYSIS : 0.125
 """
